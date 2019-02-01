@@ -892,6 +892,7 @@ id clip_horizontal
 id clip_vertical
 id collapseActionView
 id container
+id content
 id contentPanel
 id coordinator
 id custom
@@ -918,7 +919,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1107,6 +1107,7 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
+layout fragment_dashboard
 layout nav_header_main
 layout notification_action
 layout notification_action_tombstone
@@ -1191,6 +1192,7 @@ string google_api_key
 string google_app_id
 string google_crash_reporting_api_key
 string google_storage_bucket
+string hello_blank_fragment
 string nav_header_desc
 string nav_header_subtitle
 string nav_header_title

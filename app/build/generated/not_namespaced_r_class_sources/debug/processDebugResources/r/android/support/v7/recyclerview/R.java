@@ -111,7 +111,7 @@ public final class R {
         public static final int blocking = 0x7f080025;
         public static final int bottom = 0x7f080026;
         public static final int chronometer = 0x7f080030;
-        public static final int end = 0x7f080048;
+        public static final int end = 0x7f080049;
         public static final int forever = 0x7f080054;
         public static final int icon = 0x7f08005a;
         public static final int icon_group = 0x7f08005b;
@@ -145,17 +145,17 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int notification_action = 0x7f0a002e;
-        public static final int notification_action_tombstone = 0x7f0a002f;
-        public static final int notification_template_custom_big = 0x7f0a0036;
-        public static final int notification_template_icon_group = 0x7f0a0037;
-        public static final int notification_template_part_chronometer = 0x7f0a003b;
-        public static final int notification_template_part_time = 0x7f0a003c;
+        public static final int notification_action = 0x7f0a002f;
+        public static final int notification_action_tombstone = 0x7f0a0030;
+        public static final int notification_template_custom_big = 0x7f0a0037;
+        public static final int notification_template_icon_group = 0x7f0a0038;
+        public static final int notification_template_part_chronometer = 0x7f0a003c;
+        public static final int notification_template_part_time = 0x7f0a003d;
     }
     public static final class string {
         private string() {}
 
-        public static final int status_bar_notification_info_overflow = 0x7f0d0048;
+        public static final int status_bar_notification_info_overflow = 0x7f0d0049;
     }
     public static final class style {
         private style() {}
